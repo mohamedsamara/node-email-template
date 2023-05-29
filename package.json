@@ -1,6 +1,7 @@
 {
   "name": "node-email-template",
   "version": "1.0.0",
+  "description": "Node Email Template",
   "scripts": {
     "clean": "rimraf ./build",
     "copy": "cp -r src/public build/public && cp -r src/templates build/templates",
