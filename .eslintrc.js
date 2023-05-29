@@ -6,11 +6,5 @@ module.exports = {
   },
   plugins: ['@typescript-eslint', 'prettier'],
   extends: ['plugin:@typescript-eslint/recommended', 'prettier'],
-  rules: {
-    'no-console': 'off',
-    'comma-dangle': 'off',
-    'react/jsx-filename-extension': 'off',
-    'react/prop-types': 'off',
-    '@typescript-eslint/no-var-requires': 'off',
-  },
+  rules: {},
 };
