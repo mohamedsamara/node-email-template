@@ -42,12 +42,8 @@
   },
   "dependencies": {
     "aws-sdk": "^2.1386.0",
-    "body-parser": "^1.20.0",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "handlebars": "^4.7.7",
-    "json-server": "^0.17.0",
-    "jsonwebtoken": "^8.5.1",
-    "short-uuid": "^4.2.0"
+    "handlebars": "^4.7.7"
   }
 }
